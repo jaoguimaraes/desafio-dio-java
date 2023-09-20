@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e4d639c-ed51-4831-a3d4-4c885a707827" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/EquilibrandoSaldo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,8 +13,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -49,6 +60,8 @@
       <workItem from="1695059518832" duration="1121000" />
       <workItem from="1695127210591" duration="716000" />
       <workItem from="1695165034982" duration="5798000" />
+      <workItem from="1695174081314" duration="26000" />
+      <workItem from="1695240448259" duration="2416000" />
     </task>
     <task id="LOCAL-00001" summary="Construção de um código simples, desafio da DIO para cálculo de aliquotas de salário">
       <option name="closed" value="true" />
