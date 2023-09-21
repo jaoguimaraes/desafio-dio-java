@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e4d639c-ed51-4831-a3d4-4c885a707827" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EquilibrandoSaldo.java" afterDir="false" />
+    <list default="true" id="6e4d639c-ed51-4831-a3d4-4c885a707827" name="Changes" comment="Desafio da Organização de ativos">
+      <change afterPath="$PROJECT_DIR$/src/BancoOrganizadorAtivos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,9 @@
       <workItem from="1695127210591" duration="716000" />
       <workItem from="1695165034982" duration="5798000" />
       <workItem from="1695174081314" duration="26000" />
-      <workItem from="1695240448259" duration="2416000" />
+      <workItem from="1695240448259" duration="3934000" />
+      <workItem from="1695296113995" duration="6681000" />
+      <workItem from="1695326241998" duration="2477000" />
     </task>
     <task id="LOCAL-00001" summary="Construção de um código simples, desafio da DIO para cálculo de aliquotas de salário">
       <option name="closed" value="true" />
@@ -79,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695172813145</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Construção de um código simples, desadio da DIO, construído por mim sem auxilio direto dos experts da DIO.">
+      <option name="closed" value="true" />
+      <created>1695243002855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695243002855</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +108,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Construção de um código simples, desafio da DIO para cálculo de aliquotas de salário" />
-    <option name="LAST_COMMIT_MESSAGE" value="Construção de um código simples, desafio da DIO para cálculo de aliquotas de salário" />
+    <MESSAGE value="Construção de um código simples, desadio da DIO, construído por mim sem auxilio direto dos experts da DIO." />
+    <MESSAGE value="Desafio da Organização de ativos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio da Organização de ativos" />
   </component>
 </project>
