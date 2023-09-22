@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e4d639c-ed51-4831-a3d4-4c885a707827" name="Changes" comment="Desafio das transações bancárias">
-      <change afterPath="$PROJECT_DIR$/src/TransacoesBancarias.java" afterDir="false" />
+    <list default="true" id="6e4d639c-ed51-4831-a3d4-4c885a707827" name="Changes" comment="Desafio do Banco, calculando juros compostos + inserção da moeda local do pais.">
+      <change afterPath="$PROJECT_DIR$/src/BancoApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TransacoesBancarias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TransacoesBancarias.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <workItem from="1695174081314" duration="26000" />
       <workItem from="1695240448259" duration="3934000" />
       <workItem from="1695296113995" duration="6681000" />
-      <workItem from="1695326241998" duration="3650000" />
+      <workItem from="1695326241998" duration="9053000" />
     </task>
     <task id="LOCAL-00001" summary="Construção de um código simples, desafio da DIO para cálculo de aliquotas de salário">
       <option name="closed" value="true" />
@@ -97,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695339218144</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Desafio das transações bancárias">
+      <option name="closed" value="true" />
+      <created>1695340494338</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695340494338</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +128,7 @@
     <MESSAGE value="Construção de um código simples, desadio da DIO, construído por mim sem auxilio direto dos experts da DIO." />
     <MESSAGE value="Desafio da Organização de ativos" />
     <MESSAGE value="Desafio das transações bancárias" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio das transações bancárias" />
+    <MESSAGE value="Desafio do Banco, calculando juros compostos + inserção da moeda local do pais." />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio do Banco, calculando juros compostos + inserção da moeda local do pais." />
   </component>
 </project>

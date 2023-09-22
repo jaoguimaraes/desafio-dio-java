@@ -7,10 +7,9 @@ public class TransacoesBancarias {
         Scanner scanner = new Scanner(System.in);
         int saldoTotal = scanner.nextInt();
         int valorSaque = scanner.nextInt();
-
-        //Criar as condições necessárias para impressão da saída, vide tabela de exemplos.
         int novoSaldo;
 
+        //Criar as condições necessárias para impressão da saída, vide tabela de exemplos.
         novoSaldo = saldoTotal - valorSaque;
 
         if (valorSaque <= saldoTotal) {
