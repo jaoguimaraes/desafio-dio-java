@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e4d639c-ed51-4831-a3d4-4c885a707827" name="Changes" comment="Desafio do Banco, calculando juros compostos + inserção da moeda local do pais.">
-      <change afterPath="$PROJECT_DIR$/src/BancoApp.java" afterDir="false" />
+    <list default="true" id="6e4d639c-ed51-4831-a3d4-4c885a707827" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DepositosBancarios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TransacoesBancarias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TransacoesBancarias.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +25,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -64,7 +66,8 @@
       <workItem from="1695174081314" duration="26000" />
       <workItem from="1695240448259" duration="3934000" />
       <workItem from="1695296113995" duration="6681000" />
-      <workItem from="1695326241998" duration="9053000" />
+      <workItem from="1695326241998" duration="16902000" />
+      <workItem from="1695382110311" duration="791000" />
     </task>
     <task id="LOCAL-00001" summary="Construção de um código simples, desafio da DIO para cálculo de aliquotas de salário">
       <option name="closed" value="true" />
@@ -106,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695340494338</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Desafio do Banco, calculando juros compostos + inserção da moeda local do pais.">
+      <option name="closed" value="true" />
+      <created>1695345949219</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695345949219</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
